@@ -29,7 +29,7 @@ export default function Navbar() {
             <img 
               src="https://res.cloudinary.com/dyj3rywju/image/upload/v1753528568/calispec_transparent_1_sez0aw.png" 
               alt="Calispec.ai" 
-              className="h-16 w-full"
+              className="h-12 w-28 object-contain md:h-16 md:w-full"
             />
           </div>
           

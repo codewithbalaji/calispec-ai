@@ -56,7 +56,7 @@ export default function HeroSection() {
           
           <motion.h1 
             variants={fadeInUp}
-            className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight"
+            className="text-3xl md:text-5xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight"
           >
             Reimagining Gauge<br />
             <span className="text-blue-600">Management</span> for<br />
